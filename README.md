@@ -1,6 +1,6 @@
 # vnandh.github.io
 
-#Welcome!
+Welcome!
 Here you can download vnandh's latest project
-#w-a-v-e
+w-a-v-e
 Wave is a GD Gamemode remake where you can create stupidly cool levels and play them!
